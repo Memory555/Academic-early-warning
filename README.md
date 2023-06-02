@@ -114,6 +114,6 @@ G2 -第二阶段等级(数字:从0到20)
 
 [2] https://www.jb51.net/article/136567.htm.Python matplotlib绘图可视化知识点整理(小结)
 
-[3] https://blog.csdn.net/qq\_40671063/article/details/127972727.使用python画柱状图(matplotlib.pyplot)-- 你想要的设置这张图基本都包括
+[3] https://blog.csdn.net/qq\_40671063/article/details/127972727. 使用python画柱状图(matplotlib.pyplot)-- 你想要的设置这张图基本都包括
 
-[4]https://blog.csdn.net/wuShiJingZuo/article/details/112791872.总结了16个常用的matlibplot画图技巧（附源码）
+[4]https://blog.csdn.net/wuShiJingZuo/article/details/112791872. 总结了16个常用的matlibplot画图技巧（附源码）
